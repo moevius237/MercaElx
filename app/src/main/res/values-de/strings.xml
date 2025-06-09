@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MercaElx</string>
+    <string name="permiso_ubicacion_no_concedido">Standortberechtigung nicht erteilt</string>
+    <string name="nombre_no_disponible">Name nicht verfügbar</string>
+    <string name="descripcion_no_disponible">Beschreibung nicht verfügbar</string>
+    <string name="direccion_no_disponible">Adresse nicht verfügbar</string>
+    <string name="horario_no_disponible">Öffnungszeiten nicht verfügbar</string>
+    <string name="precio_no_disponible">Preis nicht verfügbar</string>
+    <string name="categoria_no_disponible">Kategorie nicht verfügbar</string>
+    <string name="no_datos_lugar">Keine Standortdaten ausgewählt</string>
+    <string name="error_cargar_lugares">Fehler beim Laden der Orte</string>
+    <string name="no_se_pudo_obtener_ubicacion">Standort konnte nicht ermittelt werden</string>
+    <string name="ir_a_ajustes">Gehe zu den Einstellungen und erteile Berechtigungen</string>
+    <string name="activar_localizacion_aviso">Um den Standort zu aktivieren, gehe zu den Einstellungen und erteile Berechtigungen</string>
+    <string name="permiso_denegado">Standortberechtigung verweigert</string>
+    <string name="centrado">Zentriert</string>
+    <string name="estas_en">Du bist bei: %1$.5f, %2$.5f</string>
+    <string name="salir">Beenden</string>
+    <string name="configuracion">Einstellungen</string>
+    <string name="quitar_ruta">Route entfernen</string>
+    <string name="mostrar_info_detallada">Detaillierte Informationen anzeigen</string>
+    <string name="confirmar">Bestätigen</string>
+    <string name="cancelar">Abbrechen</string>
+    <string name="bienvenido">Willkommen bei MercaElx</string>
+    <string name="eslogan">Tourismus ohne Grenzen</string>
+    <string name="idioma">Sprache</string>
+    <string name="ver_cercanos">nahegelegene Standorte anzeigen</string>
+    <string name="selecciona_lugar_cercano">Wähle einen nahegelegenen Ort</string>
+
+</resources>

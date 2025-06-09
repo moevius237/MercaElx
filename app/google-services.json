@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282973595597",
+    "project_id": "mercaelx",
+    "storage_bucket": "mercaelx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282973595597:android:6225ae75efc1d8941f0684",
+        "android_client_info": {
+          "package_name": "net.iessochoa.pablolopez.mercaelx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwrVv1E94kjuX0u1Wrd9R-NNLoK7MMaR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

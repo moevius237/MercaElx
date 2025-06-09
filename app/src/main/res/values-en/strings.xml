@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MercaElx</string>
+    <string name="permiso_ubicacion_no_concedido">Location permission not granted</string>
+    <string name="nombre_no_disponible">Name not available</string>
+    <string name="descripcion_no_disponible">Description not available</string>
+    <string name="direccion_no_disponible">Address not available</string>
+    <string name="horario_no_disponible">Schedule not available</string>
+    <string name="precio_no_disponible">Price not available</string>
+    <string name="categoria_no_disponible">Category not available</string>
+    <string name="no_datos_lugar">No location data selected</string>
+    <string name="error_cargar_lugares">Error loading locations</string>
+    <string name="no_se_pudo_obtener_ubicacion">Could not get location</string>
+    <string name="ir_a_ajustes">Go to settings and grant permissions</string>
+    <string name="activar_localizacion_aviso">To enable location, go to settings and grant permissions</string>
+    <string name="permiso_denegado">Location permission denied</string>
+    <string name="centrado">Centered</string>
+    <string name="estas_en">You are at: %1$.5f, %2$.5f</string>
+    <string name="salir">Exit</string>
+    <string name="configuracion">Settings</string>
+    <string name="quitar_ruta">Remove Route</string>
+    <string name="mostrar_info_detallada">Show detailed information</string>
+    <string name="confirmar">Confirm</string>
+    <string name="cancelar">Cancel</string>
+    <string name="bienvenido">Welcome to MercaElx</string>
+    <string name="eslogan">Tourism without limits</string>
+    <string name="idioma">Language</string>
+    <string name="ver_cercanos">view nearby locations</string>
+    <string name="selecciona_lugar_cercano">Select a nearby place</string>
+
+</resources>

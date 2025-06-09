@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MercaElx</string>
+    <string name="permiso_ubicacion_no_concedido">Разрешение на доступ к местоположению не предоставлено</string>
+    <string name="nombre_no_disponible">Имя недоступно</string>
+    <string name="descripcion_no_disponible">Описание недоступно</string>
+    <string name="direccion_no_disponible">Адрес недоступен</string>
+    <string name="horario_no_disponible">Расписание недоступно</string>
+    <string name="precio_no_disponible">Цена недоступна</string>
+    <string name="categoria_no_disponible">Категория недоступна</string>
+    <string name="no_datos_lugar">Нет выбранных данных о месте</string>
+    <string name="error_cargar_lugares">Ошибка при загрузке мест</string>
+    <string name="no_se_pudo_obtener_ubicacion">Не удалось получить местоположение</string>
+    <string name="ir_a_ajustes">Перейдите в настройки и предоставьте разрешения</string>
+    <string name="activar_localizacion_aviso">Чтобы включить местоположение, перейдите в настройки и предоставьте разрешения</string>
+    <string name="permiso_denegado">Доступ к местоположению отклонён</string>
+    <string name="centrado">Центрировано</string>
+    <string name="estas_en">Вы находитесь в: %1$.5f, %2$.5f</string>
+    <string name="salir">Выход</string>
+    <string name="configuracion">Настройки</string>
+    <string name="quitar_ruta">Удалить маршрут</string>
+    <string name="mostrar_info_detallada">Показать подробную информацию</string>
+    <string name="confirmar">Подтвердить</string>
+    <string name="cancelar">Отмена</string>
+    <string name="bienvenido">Добро пожаловать в MercaElx</string>
+    <string name="eslogan">Туризм без границ</string>
+    <string name="idioma">Язык</string>
+    <string name="ver_cercanos">посмотреть ближайшие места</string>
+    <string name="selecciona_lugar_cercano">Выберите ближайшее место</string>
+
+</resources>

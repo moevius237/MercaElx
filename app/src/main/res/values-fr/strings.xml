@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MercaElx</string>
+    <string name="permiso_ubicacion_no_concedido">Autorisation de localisation non accordée</string>
+    <string name="nombre_no_disponible">Nom non disponible</string>
+    <string name="descripcion_no_disponible">Description non disponible</string>
+    <string name="direccion_no_disponible">Adresse non disponible</string>
+    <string name="horario_no_disponible">Horaire non disponible</string>
+    <string name="precio_no_disponible">Prix non disponible</string>
+    <string name="categoria_no_disponible">Catégorie non disponible</string>
+    <string name="no_datos_lugar">Aucune donnée de lieu sélectionnée</string>
+    <string name="error_cargar_lugares">Erreur lors du chargement des lieux</string>
+    <string name="no_se_pudo_obtener_ubicacion">Impossible d\'obtenir la position</string>
+    <string name="ir_a_ajustes">Allez dans les paramètres et accordez les autorisations</string>
+    <string name="activar_localizacion_aviso">Pour activer la localisation, allez dans les paramètres et accordez les autorisations</string>
+    <string name="permiso_denegado">Autorisation de localisation refusée</string>
+    <string name="centrado">Centré</string>
+    <string name="estas_en">Vous êtes à : %1$.5f, %2$.5f</string>
+    <string name="salir">Quitter</string>
+    <string name="configuracion">Paramètres</string>
+    <string name="quitar_ruta">Supprimer l\'itinéraire</string>
+    <string name="mostrar_info_detallada">Afficher les informations détaillées</string>
+    <string name="confirmar">Confirmer</string>
+    <string name="cancelar">Annuler</string>
+    <string name="bienvenido">Bienvenue à MercaElx</string>
+    <string name="eslogan">Tourisme sans limites</string>
+    <string name="idioma">Langue</string>
+    <string name="ver_cercanos">voir les emplacements à proximité</string>
+    <string name="selecciona_lugar_cercano">Sélectionnez un lieu à proximité</string>
+
+</resources>

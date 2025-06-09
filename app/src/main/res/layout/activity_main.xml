@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/fragmentMap"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/configuracion"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnRoute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:visibility="gone"
+        android:contentDescription="Ver ruta"
+        android:src="@android:drawable/ic_menu_directions"
+        app:backgroundTint="@color/elche_green_light"
+        android:layout_gravity="bottom|end" />
+    <Button
+        android:id="@+id/btnClearRoute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quitar_ruta"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/elche_green_light"
+        android:textColor="@android:color/white" />
+    <Button
+        android:id="@+id/btnShowDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mostrar_info_detallada"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="80dp"
+        android:backgroundTint="@color/elche_green_light"
+        android:textColor="@android:color/white"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/zoomControls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical|start"
+        android:layout_marginStart="16dp"
+        android:gravity="center_horizontal">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnFilterCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/filtra_porCategoria"
+            android:src="@drawable/ic_filter"
+            app:backgroundTint="@color/elche_green_light"
+            app:tint="@android:color/white"
+            android:layout_marginBottom="8dp"
+            app:maxImageSize="36dp" />
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnNearbyPlaces"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/selecciona_lugar_cercano"
+            android:src="@drawable/ic_more_vert"
+            app:backgroundTint="@color/elche_green_light"
+            app:tint="@android:color/white"
+            app:maxImageSize="36dp" />
+
+        <Button
+            android:id="@+id/btnZoomIn"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:text="+"
+            android:textSize="24sp"
+            android:backgroundTint="@color/elche_green_light"
+            android:textColor="@android:color/white"
+            android:elevation="8dp"
+            android:background="@drawable/round_button"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/btnZoomOut"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:text="-"
+            android:textSize="24sp"
+            android:backgroundTint="@color/elche_green_light"
+            android:textColor="@android:color/white"
+            android:elevation="8dp"
+            android:background="@drawable/round_button"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+
+
+
+</FrameLayout>

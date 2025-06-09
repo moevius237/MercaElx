@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MercaElx</string>
+    <string name="permiso_ubicacion_no_concedido">未授予位置权限</string>
+    <string name="nombre_no_disponible">名称不可用</string>
+    <string name="descripcion_no_disponible">描述不可用</string>
+    <string name="direccion_no_disponible">地址不可用</string>
+    <string name="horario_no_disponible">时间不可用</string>
+    <string name="precio_no_disponible">价格不可用</string>
+    <string name="categoria_no_disponible">类别不可用</string>
+    <string name="no_datos_lugar">未选择地点数据</string>
+    <string name="error_cargar_lugares">加载地点时出错</string>
+    <string name="no_se_pudo_obtener_ubicacion">无法获取位置</string>
+    <string name="ir_a_ajustes">请前往设置并授予权限</string>
+    <string name="activar_localizacion_aviso">要启用位置服务，请前往设置并授予权限</string>
+    <string name="permiso_denegado">位置权限被拒绝</string>
+    <string name="centrado">已居中</string>
+    <string name="estas_en">您所在的位置是：%1$.5f, %2$.5f</string>
+    <string name="salir">退出</string>
+    <string name="configuracion">设置</string>
+    <string name="quitar_ruta">移除路线</string>
+    <string name="mostrar_info_detallada">显示详细信息</string>
+    <string name="confirmar">确认</string>
+    <string name="cancelar">取消</string>
+    <string name="bienvenido">欢迎来到 MercaElx</string>
+    <string name="eslogan">无限旅游</string>
+    <string name="idioma">语言</string>
+    <string name="ver_cercanos">查看附近位置</string>
+    <string name="selecciona_lugar_cercano">选择附近的位置</string>
+
+
+</resources>
